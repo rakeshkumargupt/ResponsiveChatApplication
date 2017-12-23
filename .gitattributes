@@ -1,1 +1,3 @@
 *.rb linguist-language=Java
+mvnw linguist-vendored
+mvnw.cmd linguist-vendored
